@@ -311,7 +311,7 @@ function App() {
           </a>
           <div className="nav-menu">
             <span className="dev-badge">Developer: tanush_44</span>
-            <a href="https://discord.com/oauth2/authorize?client_id=1078623305218662440&permissions=8&scope=bot%20applications.commands" target="_blank" className="nav-link" rel="noreferrer">
+            <a href="https://canary.discord.com/discovery/applications/1425494057014136913" target="_blank" className="nav-link" rel="noreferrer">
               Invite Bot <ExternalLink size={14} style={{ display: 'inline', marginLeft: '4px' }} />
             </a>
             <a href="https://discord.gg/mellowcafe" target="_blank" className="nav-link" rel="noreferrer">Support</a>
